@@ -24,11 +24,11 @@ font-size: 35px;
 </head>
 <body>
 <div class="form-container">
-<p><span style="font-size: 50px;">O Lucas é bonito?</span></p>
+<p><span style="font-size: 50px;">Qual sua cor favorita?</span></p>
 <select>
-<option value="SIM">SIM</option>
-<option value="Com certeza">Com certeza</option>
-<option value="CLARO">CLARO</option>
+<option value="Azul">Azul</option>
+<option value="Verde">Verde</option>
+<option value="Preto">Preto</option>
 </select>
 </div>
 </body>
